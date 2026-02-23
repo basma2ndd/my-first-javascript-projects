@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<title> Greeting Robot Project</title>
+<script>
 console.log("Hi there!");
 console.log("I am excited to talk to you.");
 let bot;
